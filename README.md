@@ -37,7 +37,7 @@ students' results. However, the analysis shows associa􀆟ons and differences, n
 these factors directly causes higher or lower examina􀆟on scores.
 7. Deliverables
  An Excel workbook containing the dataset analysis, PivotTables, visualiza􀆟ons, and
-interac􀆟ve dashboard.
+interac􀆟ve dashboard.Student performance Dashboard.png
  An analysis and recommenda􀆟ons worksheet summarizing findings and their prac􀆟cal
 implica􀆟ons.
  Suppor􀆟ng documenta􀆟on describing the project objec􀆟ve, analy􀆟cal approach, data source,
