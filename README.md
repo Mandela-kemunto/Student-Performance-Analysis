@@ -36,8 +36,8 @@ see why it is important to examine several factors rather than assume that one f
 students' results. However, the analysis shows associa􀆟ons and differences, not proof that any of
 these factors directly causes higher or lower examina􀆟on scores.
 7. Deliverables
- An Excel workbook containing the dataset analysis, PivotTables Student performance analysis2026-10-16 161236.png, visualiza􀆟ons, and
-interac􀆟ve dashboard.Student performance Dashboard.png
+ An Excel workbook containing the dataset analysis, PivotTables, visualiza􀆟ons, and
+interac􀆟ve dashboard.
  An analysis and recommenda􀆟ons worksheet summarizing findings and their prac􀆟cal
 implica􀆟ons.
  Suppor􀆟ng documenta􀆟on describing the project objec􀆟ve, analy􀆟cal approach, data source,
