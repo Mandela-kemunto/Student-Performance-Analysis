@@ -42,9 +42,11 @@ interac􀆟ve dashboard.
 implica􀆟ons.
  Suppor􀆟ng documenta􀆟on describing the project objec􀆟ve, analy􀆟cal approach, data source,
 and limita􀆟ons.
-8.Dashboard Preview
-Student performance Dashboard
-![Student Performance Dashboard]
+## 8.Dashboard Preview
+###Student performance Dashboard
+![Student Performance Dashboard](Student%20performance%20Dashboard.png)
+###Supporting Analysis
+![Student Performance Analysis](Student%20performance%20analysis2026-10-16%20161236.png)
 9.Limitations
 The analysis identifies patterns and associations in the available datasets. 
 It does not establish causation, the findings should not be generalized beyond the dataset without further investigations.
